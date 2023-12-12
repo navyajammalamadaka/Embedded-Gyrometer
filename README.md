@@ -1,10 +1,11 @@
-1.OVERVIEW OF THE PROJECT 
+## OVERVIEW OF THE PROJECT 
 The goal of embedded system challenge is to assemble a wearable speedometer which can calculate
 velocity by estimating angular velocity accessible from our built-in gyroscope(L3GD20) - without a GPS. 
 Our gyroscope can quantify 3-axis angular velocity. Decisively setting the sensor on the legs or feet to
 calculate the distance travelled by the person and capturing the angular velocity and then converting the 
 angular velocity into linear forward velocity. 
-2.INTRODUCTION
+
+## INTRODUCTION
 Gyroscope sensor is a device that can measure and maintain the orientation and angular velocity of an 
 object. These can measure the tilt and lateral orientation of the object whereas accelerometer can only 
 measure the linear motion. Gyroscope sensors are also called as Angular Rate Sensor or Angular Velocity 
@@ -20,7 +21,7 @@ The main functions of the Gyroscope Sensor for all the applications are Angular 
 sensing, and control mechanisms. Image blurring in cameras can be compensated by using Gyroscope 
 Sensor-based optical image stabilization system.
  
-3.OVERVIEW OF PROGRAMMING LANGUAGE USED
+## OVERVIEW OF PROGRAMMING LANGUAGE USED
 1) EMBEDDED C: Embedded C programming plays a key role to make the microcontroller run & 
 perform the preferred actions. At present, we normally utilize several electronic devices like mobile 
 phones, washing machines, security systems, refrigerators, digital cameras, etc. The controlling of these 
